@@ -6,4 +6,4 @@ Very simple and ugly implementation of Turing Machine. It compiles given source 
 Project made for college exam, resides here for historical purposes.
 
 ## Remastered version
-TBD
+Link to the remastered version repo: [RemasteredCollegeProjects-TuringMachine](https://github.com/ToshaUwU/RemasteredCollegeProjects-TuringMachine)
